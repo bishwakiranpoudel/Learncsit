@@ -43,8 +43,8 @@ export default function Sidebar({ children }) {
                                     <div className='bg-black bg-opacity-10 h-[1px] my-5 w-[80%] dark:bg-white-rgba-1' />
                                 </div>
 
-                                <Menuitem title="Interview Preperation" to="/" iconClass="bi bi-clipboard2-pulse-fill" />
-                                <Menuitem title="Articles" to="/" iconClass="bi bi-receipt" />
+                                <Menuitem title="Interview Preperation" to="/null" iconClass="bi bi-clipboard2-pulse-fill" />
+                                <Menuitem title="Articles" to="/null" iconClass="bi bi-receipt" />
                             </li>
                         </ul>
 
